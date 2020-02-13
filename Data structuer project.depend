@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581551199 source:d:\programming\c++\data structured\data structuer project\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+
